@@ -12,12 +12,12 @@ public class Circle {
  }
    public Circle() {  
       radius = 1.0;
-      color = "red";
+      color = "green";
    }
    
    
    public Circle(double e) {  
       radius = e;
-      color = "red";
+      color = "green";
    }
 }
